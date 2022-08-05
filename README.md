@@ -1,6 +1,6 @@
-Thanks for chekcing out my project!
+## Thanks for checking out my project!
 
-In this machine learning model we take will attempt to find our best variables to predict sruvival rate for passengers of the Titanic.
+In this *machine learning model* we take will attempt to find our best variables to predict sruvival rate for passengers of the Titanic.
 
 Which could be a better predictor of seasons long tv shows? Let's find out!
 
