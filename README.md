@@ -6,7 +6,7 @@ Which could be a better predictor of seasons long tv shows? Let's find out!
 
 For exploratory data analysis and hypothesis testing purposes we performed the following:
 
-Wrangled and cleaned our data
+Wrangled, cleaned and recoded data
 Implemented Decision Tree and Random Forest models
 Performed Hyperparameter tuning on our Random Forest model
 Utilized Feature Importance to determine best predictors of survival
